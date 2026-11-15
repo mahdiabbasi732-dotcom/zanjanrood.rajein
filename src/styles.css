@@ -1,0 +1,95 @@
+@import "tailwindcss";
+@import "@fontsource/vazirmatn/arabic-400.css";
+@import "@fontsource/vazirmatn/arabic-500.css";
+@import "@fontsource/vazirmatn/arabic-700.css";
+@import "@fontsource/vazirmatn/arabic-800.css";
+
+@theme {
+  --font-sans: "Vazirmatn", Tahoma, sans-serif;
+  --color-cream: #fff8ef;
+  --color-paper: #fffcf8;
+  --color-mist: #f3f2f7;
+  --color-ink: #30334a;
+  --color-muted: #5f6278;
+  --color-line: #e4deef;
+  --color-lavender: #a78bfa;
+  --color-violet: #5346b8;
+  --color-pink: #f6a6c1;
+  --color-sky: #8ccff5;
+  --color-mint: #9adcc2;
+  --color-butter: #ffe49a;
+  --color-peach: #ffbea5;
+  --color-navy: #2a2d42;
+  --color-sticker: #fff6ee;
+  --shadow-soft: 0 12px 32px rgb(48 51 74 / 0.07);
+  --shadow-pop: 0 16px 40px rgb(83 70 184 / 0.16);
+}
+
+@layer base {
+  html {
+    font-family: Vazirmatn, Tahoma, sans-serif;
+  }
+  body {
+    margin: 0;
+    background: var(--color-cream);
+    color: var(--color-ink);
+    font-family: Vazirmatn, Tahoma, sans-serif;
+    line-height: 1.6;
+  }
+  button:not(:disabled),
+  [role="button"]:not(:disabled) {
+    cursor: pointer;
+  }
+  :focus-visible {
+    outline: 2px solid var(--color-violet);
+    outline-offset: 2px;
+  }
+  input,
+  select,
+  textarea,
+  button {
+    font: inherit;
+  }
+}
+
+@layer components {
+  .control {
+    width: 100%;
+    min-height: 2.75rem;
+    border-radius: 0.9rem;
+    border: 1px solid var(--color-line);
+    background: var(--color-paper);
+    color: var(--color-ink);
+    padding: 0.45rem 0.8rem;
+  }
+  textarea.control {
+    min-height: 5.5rem;
+    resize: vertical;
+  }
+}
+
+@keyframes floaty {
+  0%,
+  100% { transform: translateY(0); }
+  50% { transform: translateY(-8px); }
+}
+@keyframes rise {
+  from { opacity: 0; transform: translateY(8px); }
+  to { opacity: 1; transform: none; }
+}
+.floaty { animation: floaty 4.8s ease-in-out infinite; }
+.rise { animation: rise 0.32s ease both; }
+
+@media (prefers-reduced-motion: reduce) {
+  .floaty,
+  .rise { animation: none !important; }
+}
+
+@media print {
+  .no-print { display: none !important; }
+  body { background: white !important; }
+  #print-root {
+    box-shadow: none !important;
+    border: none !important;
+  }
+}
