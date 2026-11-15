@@ -16,6 +16,7 @@ import {
   School,
   Search,
   GraduationCap,
+  Users,
   X,
   type LucideIcon,
 } from "lucide-react";
