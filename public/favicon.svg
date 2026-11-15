@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="دفتر کلاس هوشمند">
+  <rect width="32" height="32" rx="8" fill="#FFF8EF"/>
+  <path d="M6 21.2h9.2V27H8.4A2.4 2.4 0 0 1 6 24.6v-3.4Z" fill="#8CCFF5"/>
+  <path d="M26 21.2h-9.2V27h6.8a2.4 2.4 0 0 0 2.4-2.4v-3.4Z" fill="#9ADCC2"/>
+  <rect x="14.4" y="21.2" width="3.2" height="5.8" rx="0.6" fill="#FFE49A"/>
+  <circle cx="16" cy="13.4" r="8.1" fill="#A78BFA"/>
+  <path d="M9.2 8.1 11.1 11.6 13.6 9.4Z" fill="#F6A6C1"/>
+  <path d="M22.8 8.1 20.9 11.6 18.4 9.4Z" fill="#F6A6C1"/>
+  <circle cx="12.7" cy="13.2" r="2.55" fill="#FFF8EF"/>
+  <circle cx="19.3" cy="13.2" r="2.55" fill="#FFF8EF"/>
+  <circle cx="13.2" cy="13.55" r="1.15" fill="#30334A"/>
+  <circle cx="19.8" cy="13.55" r="1.15" fill="#30334A"/>
+  <path d="M16 15.15 17.25 17.05h-2.5Z" fill="#FFE49A"/>
+  <circle cx="10.15" cy="16.15" r="1.05" fill="#F6A6C1"/>
+  <circle cx="21.85" cy="16.15" r="1.05" fill="#F6A6C1"/>
+</svg>

@@ -1,0 +1,1029 @@
+خب یه خروجی خفن برام بساز که این پرامپت ها به ترتیب توش دخیل باشن
+اولی این
+THE ULTIMATE MASTER PROMPT
+SMART CLASS NOTEBOOK
+A Premium, Playful, Immersive & Fully Functional Offline Educational Management Platform
+
+───
+
+01 — YOUR ROLE AND MISSION
+Act as an elite multidisciplinary product development team consisting of:
+• A world-class Senior UI/UX Designer.
+• A Creative Art Director specializing in playful digital products.
+• A Senior Front-End Architect.
+• An expert Vanilla JavaScript Engineer.
+• A Design Systems Engineer.
+• An Educational Software Product Designer.
+• A Motion and Micro-Interaction Designer.
+• An Accessibility and Responsive Design Specialist.
+Your mission is to design and develop an exceptional educational management application named:
+SMART CLASS NOTEBOOK — دفتر کلاس هوشمند
+Official school name:
+مدرسه ابتدایی استاد حالت ۲
+This is not supposed to look like a conventional school administration system.
+It should feel like a carefully crafted premium educational product: visually delightful, emotionally engaging, playful, intelligent, modern, highly organized, and exceptionally easy to use.
+Imagine combining the visual charm of a beautifully illustrated children's learning application, the polish of a premium SaaS dashboard, the usability of a modern productivity application, and the personality of a carefully designed animated character universe.
+The final product must have a recognizable visual identity of its own.
+Do not produce a generic dashboard template.
+Do not produce a boring collection of forms and tables.
+Create an immersive, coherent, delightful digital environment that makes teachers genuinely enjoy opening the application.
+The most important design principle: Professional functionality wrapped in a joyful visual experience.
+
+───
+
+02 — CREATIVE VISION & DESIGN PHILOSOPHY
+The overall design direction is:
+Premium Kawaii 3D + Soft Pastel + Modern Educational Dashboard + Playful Editorial UI
+The interface should communicate:
+• Warmth.
+• Creativity.
+• Trust.
+• Simplicity.
+• Organization.
+• Intelligence.
+• Encouragement.
+• A sense of discovery.
+• A positive educational atmosphere.
+The application must feel friendly without becoming childish or visually immature.
+Teachers and school administrators are the primary users. Therefore, the design should be delightful but also sophisticated, practical and professional.
+Use visual storytelling throughout the application.
+Every major section should have its own subtle visual identity, while all sections remain part of one consistent design system.
+Think of the application as a small digital school universe.
+
+───
+
+03 — ART DIRECTION & VISUAL IDENTITY
+Develop a distinctive visual language.
+Color system
+Use a carefully balanced pastel palette.
+Primary colors:
+• Lavender Purple: #A78BFA
+• Soft Violet: #8B7CF6
+• Powder Pink: #F6A6C1
+• Sky Blue: #8CCFF5
+• Mint Green: #9ADCC2
+• Butter Yellow: #FFE49A
+• Peach: #FFBEA5
+Neutral colors:
+• Warm White: #FFFCF8
+• Soft Cream: #FFF8EF
+• Light Gray: #F3F2F7
+• Dark Navy: #30334A
+• Muted Text: #85869A
+Use gradients selectively:
+• Lavender to pink.
+• Sky blue to mint.
+• Peach to butter yellow.
+• Violet to soft blue.
+Avoid excessive gradients.
+Do not use saturated colors everywhere.
+The background should generally be warm, bright and comfortable.
+Use subtle colored surfaces to distinguish sections.
+Visual hierarchy
+Create a strong and intentional hierarchy between:
+1. Main page headings.
+2. Section titles.
+3. Primary actions.
+4. Important statistics.
+5. Secondary information.
+6. Supporting descriptions.
+7. Decorative illustrations.
+Never allow decorative elements to compete with important information.
+Shapes and surfaces
+Use:
+• Rounded cards.
+• Soft floating panels.
+• Organic decorative shapes.
+• Subtle borders.
+• Layered surfaces.
+• Gentle shadows.
+• Rounded icon containers.
+• Carefully spaced components.
+Recommended corner radii:
+• Small controls: 12–14px.
+• Standard cards: 18–22px.
+• Feature cards: 24–28px.
+• Large hero sections: 28–36px.
+Avoid excessive glassmorphism.
+Use depth through layering, not heavy shadows.
+
+───
+
+04 — THE SIGNATURE STICKER UNIVERSE
+This is one of the most important parts of the entire visual concept.
+Create an extensive collection of original, visually consistent, adorable educational characters and decorative stickers.
+The application should have a recognizable mascot universe.
+Do not simply scatter random emojis across the interface.
+Design a coherent sticker collection with consistent proportions, lighting, material, outlines and illustration style.
+Main character collection
+Create original characters such as:
+1. Professor Owl — a cute academic owl wearing round glasses and holding a book.
+2. Bookish Bear — a friendly teddy bear carrying colorful notebooks.
+3. Bunny Student — a cheerful rabbit holding a pencil.
+4. Sleepy Cat — an adorable cat resting on a stack of books.
+5. Sunny Chick — a tiny yellow chick celebrating achievements.
+6. Little Fox — a clever fox with a small school backpack.
+7. Panda Teacher — a friendly panda holding a clipboard.
+8. Magic Pencil — a smiling pencil character.
+9. Rainbow Cloud — a soft, smiling cloud with a rainbow.
+10. Star Buddy — a small animated star with expressive eyes.
+Additional decorative stickers
+Create a large visual library containing:
+• Smiling books.
+• Tiny pencils.
+• Colorful erasers.
+• Paper clips.
+• Floating stars.
+• Sparkles.
+• Flowers.
+• Rainbows.
+• Clouds.
+• Balloons.
+• Hearts.
+• Trophies.
+• Medals.
+• Graduation caps.
+• School bells.
+• Tiny backpacks.
+• Crayons.
+• Rulers.
+• Notebooks.
+• Glowing light bulbs.
+• Rockets.
+• Little planets.
+• Smiling suns.
+• Cute clocks.
+• Friendly monsters.
+• Decorative speech bubbles.
+Sticker illustration style
+Use a combination of:
+• Premium Kawaii 3D.
+• Soft clay characters.
+• Puffy 3D stickers.
+• Hand-crafted cartoon illustrations.
+• Soft plastic toy materials.
+• Subtle pastel gradients.
+• Expressive facial details.
+• Gentle ambient shadows.
+Characters should have personality and recognizable expressions.
+Avoid cheap-looking clipart.
+Avoid mixing unrelated illustration styles.
+Sticker placement strategy
+Stickers must appear throughout the interface, but their placement must be intentional.
+Examples:
+• Login page: large mascot illustration.
+• Dashboard: a friendly character near the welcome message.
+• Attendance: Bunny Student holding an attendance sheet.
+• Assessments: Professor Owl with a magnifying glass.
+• Student records: Bookish Bear carrying a folder.
+• Reports: Panda Teacher with a clipboard.
+• Achievements: Star Buddy and trophies.
+• Notifications: small expressive character reactions.
+• Empty states: a character interacting with an empty box.
+• Success messages: Sunny Chick celebrating.
+• Error states: a confused little character offering a friendly explanation.
+Use decorative stickers around the edges of large cards, in empty corners, beside section titles and in dedicated illustration areas.
+Some stickers may slightly overlap card boundaries to create a layered, editorial composition.
+Do not place stickers over text, controls or important data.
+Sticker animation
+Implement subtle animations:
+• Floating up and down.
+• Gentle rotation.
+• Slow bobbing.
+• Occasional blinking.
+• Tiny sparkle effects.
+• Soft entrance animations.
+• Small celebration movements.
+Not every sticker should move simultaneously.
+Use different animation timings to avoid mechanical repetition.
+Keep all animations lightweight.
+
+───
+
+05 — BRAND IDENTITY & APPLICATION LOGO
+Create a distinctive logo for Smart Class Notebook.
+The logo should combine educational symbolism with playful modern design.
+Possible visual ingredients:
+• An open book.
+• A small star.
+• A pencil.
+• A friendly mascot face.
+• A subtle graduation cap.
+Create:
+• Main logo.
+• Compact sidebar logo.
+• Login-page brand illustration.
+• Small application icon.
+• Favicon.
+Use a consistent visual identity throughout the application.
+All interface text must be Persian.
+Use a beautiful, locally available Persian font such as Vazirmatn or another suitable Persian typeface.
+The interface must be fully RTL.
+
+───
+
+06 — THE LOGIN EXPERIENCE
+Create a premium login experience.
+The login page should feel like entering a friendly digital school.
+Layout
+Use a two-part composition.
+Illustration area:
+• Large original educational mascot illustration.
+• Floating decorative stickers.
+• Soft pastel background.
+• School branding.
+• A warm welcome message.
+• Subtle animated decorative elements.
+Login area:
+• Elegant login card.
+• Role selection.
+• Username field.
+• Password field.
+• Password visibility control.
+• Remember-session option, if appropriate.
+• Clear login button.
+• Friendly error feedback.
+Include a short Persian welcome message.
+Example:
+«به دفتر کلاس هوشمند مدرسه استاد حالت ۲ خوش آمدید.»
+Use subtle background decorations.
+The login form must remain clean and easy to understand.
+
+───
+
+07 — THE MAIN APPLICATION SHELL
+Create a complete application shell with:
+• Responsive sidebar.
+• Top navigation bar.
+• Main content area.
+• Notification center.
+• User profile menu.
+• Breadcrumb navigation.
+• Context-aware page title.
+• Global search where useful.
+• Consistent page transitions.
+Sidebar
+The sidebar should be elegant, rounded and visually distinctive.
+It should support:
+• Expanded mode.
+• Collapsed mode.
+• Mobile drawer mode.
+• Active navigation indicators.
+• Smooth transitions.
+Use colorful icons in small pastel containers.
+Navigation labels must be clear and readable in Persian.
+Top navigation
+Include:
+• Current date.
+• User identity.
+• Notification icon.
+• Search shortcut.
+• Profile menu.
+• Optional quick actions.
+The navigation bar should remain visually light.
+
+───
+
+08 — THE DASHBOARD EXPERIENCE
+The dashboard is the visual centerpiece of the application.
+It should not look like a spreadsheet.
+It should feel like a living educational workspace.
+Welcome hero
+Create a large welcome section containing:
+• A personalized greeting.
+• User name.
+• Role description.
+• School name.
+• Current academic year.
+• A friendly mascot illustration.
+• A short contextual message.
+Example:
+«امروز هم یک روز تازه برای یادگیری و پیشرفت است!»
+Statistics cards
+Create beautiful statistical cards for:
+• Total students.
+• Total classes.
+• Teachers.
+• Attendance today.
+• Absences.
+• Completed assessments.
+• Pending monthly reports.
+• Recent activities.
+Each card should include:
+• Distinctive icon.
+• Large readable number.
+• Short Persian label.
+• Supporting description.
+• Subtle decorative background.
+• Small interaction feedback.
+Dashboard sections
+Include:
+• Today's overview.
+• Recent activities.
+• Attendance summary.
+• Latest student assessments.
+• Pending tasks.
+• Important announcements.
+• Quick action shortcuts.
+• Monthly performance overview.
+Use charts only when they provide meaningful information.
+Do not add decorative charts with meaningless data.
+
+───
+
+09 — ROLE-BASED EXPERIENCES
+The application must provide different experiences based on user permissions.
+At minimum, support:
+1. School Manager.
+2. Teacher.
+The Manager has administrative access.
+Teachers must only access their assigned classes, students and subjects.
+Do not merely hide unauthorized information visually.
+Enforce data separation and authorization in the underlying application architecture.
+Sensitive student and family information must never be included in teacher export files.
+The teacher interface should be simpler than the manager interface.
+Do not overwhelm teachers with administrative features they do not need.
+
+───
+
+10 — MANAGER WORKSPACE
+Design a comprehensive management environment.
+Manager dashboard
+Show:
+• School statistics.
+• Student overview.
+• Teacher overview.
+• Class overview.
+• Attendance indicators.
+• Assessment completion.
+• Pending teacher submissions.
+• Recent imports.
+• System activity.
+Student management
+Provide:
+• Student directory.
+• Search.
+• Grade filters.
+• Class filters.
+• Student profiles.
+• Add student.
+• Edit student.
+• Archive student.
+• Student identification.
+• Academic information.
+• Assessment history.
+Teacher management
+Provide:
+• Teacher directory.
+• Teacher profiles.
+• Assigned classes.
+• Assigned subjects.
+• Export permissions.
+• Teacher file management.
+Class management
+Provide:
+• Grade organization.
+• Class lists.
+• Student counts.
+• Teacher assignments.
+• Subject assignments.
+Family records
+Family and guardian information must be accessible only to authorized management users.
+Use conditional forms based on family status.
+Include appropriate fields for:
+• Parent and guardian information.
+• Family status.
+• Living arrangements.
+• Parent occupations.
+• Number of household members.
+• Siblings.
+• Birth order.
+• Guardian details.
+• Relevant family notes.
+• Confidential management notes.
+Avoid showing irrelevant fields.
+Never include these records in teacher exports.
+
+───
+
+11 — TEACHER WORKSPACE
+The teacher dashboard must be exceptionally simple.
+Show only the information relevant to the logged-in teacher.
+Teacher dashboard
+Include:
+• Personalized greeting.
+• Assigned classes.
+• Assigned subjects.
+• Student counts.
+• Pending assessments.
+• Recent activities.
+• Quick actions.
+Class workspace
+When a teacher selects a class, display:
+• Class name.
+• Grade.
+• Subject.
+• Student list.
+• Attendance.
+• Assessment tools.
+• Monthly records.
+Provide a clean and convenient student list.
+Teacher actions
+Teachers should be able to:
+• Record assessments.
+• Record attendance if authorized.
+• View relevant student information.
+• Maintain permitted academic notes.
+• Export their records.
+• Submit their data to the manager.
+Do not expose family information, confidential notes, unrelated contact information or other teachers' data.
+
+───
+
+12 — ASSESSMENT SYSTEM
+Build a flexible academic assessment interface.
+Support two assessment models.
+Elementary grades
+Use descriptive assessment.
+Possible levels:
+• خیلی خوب
+• خوب
+• قابل قبول
+• نیازمند تلاش بیشتر
+Use visually clear assessment indicators.
+Middle school grades 7–9
+Use numerical assessment from 0 to 20.
+Include:
+• Numeric input.
+• Validation.
+• Clear score display.
+• Optional teacher comments.
+• Monthly assessment records.
+Persian language assessment
+Persian must have six independent assessment indicators across all grades:
+1. روخوانی
+2. روان‌خوانی
+3. درک مطلب
+4. املا
+5. نگارش
+6. انشا و تولید متن
+All other subjects should use one overall assessment.
+Design this interface carefully.
+Avoid making the teacher navigate through excessive forms.
+Use clear visual grouping.
+
+───
+
+13 — MONTHLY HISTORY & STUDENT PROFILES
+Every student should have a structured academic timeline.
+Display:
+• Monthly assessments.
+• Attendance history.
+• Academic progress.
+• Teacher comments.
+• Relevant behavioral records.
+• Previous reports.
+Use a timeline or month-based navigation.
+Allow comparison between months when meaningful.
+Never silently overwrite historical records.
+Keep a clear distinction between new, edited and previously imported records.
+
+───
+
+14 — STICKER-BASED MOTIVATION SYSTEM
+Create an optional, visually delightful achievement and recognition system.
+Examples:
+• Excellent Effort.
+• Attendance Star.
+• Reading Champion.
+• Creative Thinker.
+• Helpful Friend.
+• Improvement Award.
+• Mathematics Explorer.
+• Writing Star.
+Each achievement should have its own illustrated sticker or badge.
+The system should encourage positive educational engagement.
+Do not use stickers to publicly shame or negatively label students.
+Achievements should be configurable by the manager.
+
+───
+
+15 — REPORTS & DOCUMENT GENERATION
+Create a professional reporting environment.
+Support:
+• Student academic reports.
+• Monthly assessment reports.
+• Attendance reports.
+• Class summaries.
+• Teacher activity reports.
+• Printable student records.
+Printed reports must use a clean, formal Persian document layout.
+Important distinction:
+The main application may be playful and colorful.
+Official printed documents must be restrained, professional, monochrome or minimally colored, properly aligned and suitable for school administration.
+Provide print-friendly layouts.
+
+───
+
+16 — EMPTY STATES, NOTIFICATIONS & FEEDBACK
+Every page must have carefully designed states.
+Empty states
+Never leave an empty page completely blank.
+Use:
+• Relevant mascot.
+• Short friendly Persian message.
+• Clear next action.
+Success states
+After successful operations:
+• Show a small celebratory animation.
+• Display a clear confirmation.
+• Use a friendly character reaction.
+• Avoid intrusive full-screen effects.
+Error states
+Use:
+• Simple Persian explanations.
+• Clear recovery instructions.
+• Friendly illustrations.
+• Visible retry actions where appropriate.
+Do not use technical jargon in user-facing errors.
+
+───
+
+17 — MOTION DESIGN & MICRO-INTERACTIONS
+Motion is a core part of the visual identity.
+Create a cohesive motion language.
+Use:
+• Smooth page transitions.
+• Staggered card entrance animations.
+• Gentle hover elevation.
+• Button press feedback.
+• Floating mascot animations.
+• Animated progress indicators.
+• Notification transitions.
+• Small confetti bursts for special achievements.
+• Soft modal entrance and exit.
+• Animated active navigation indicators.
+• Subtle loading skeletons.
+Suggested animation durations:
+• Micro interactions: 120–180ms.
+• Buttons: 140–200ms.
+• Cards: 180–240ms.
+• Modals: 220–300ms.
+• Page transitions: 200–320ms.
+Use natural easing curves.
+Avoid excessive bounce effects.
+Support prefers-reduced-motion.
+Make the application feel responsive rather than continuously animated.
+
+───
+
+18 — RESPONSIVE DESIGN
+The application must work beautifully on:
+• Large desktop screens.
+• Standard laptops.
+• Tablets.
+• Mobile phones.
+Do not simply shrink the desktop layout.
+Design mobile interactions intentionally.
+On mobile:
+• Use a compact navigation system.
+• Convert wide tables into readable cards where appropriate.
+• Maintain accessible touch targets.
+• Keep primary actions visible.
+• Prevent horizontal overflow.
+• Use appropriately sized forms.
+• Keep Persian text readable.
+Test both portrait and landscape layouts.
+
+───
+
+19 — ADVANCED COMPONENT DESIGN SYSTEM
+Build a reusable design system.
+Create consistent components for:
+• Buttons.
+• Icon buttons.
+• Cards.
+• Statistic cards.
+• Form fields.
+• Select controls.
+• Search inputs.
+• Tabs.
+• Badges.
+• Status labels.
+• Modals.
+• Dropdown menus.
+• Tooltips.
+• Toast notifications.
+• Progress bars.
+• Tables.
+• Empty states.
+• Mascot containers.
+• Sticker illustrations.
+• Navigation items.
+• Profile cards.
+Every component must have:
+• Default state.
+• Hover state.
+• Focus state.
+• Active state.
+• Disabled state.
+• Loading state where relevant.
+Use consistent spacing, typography, radii, colors and motion.
+
+───
+
+20 — TECHNICAL ARCHITECTURE
+The primary deliverable must be a fully functional offline HTML application.
+Technical requirements:
+• HTML5.
+• Modern CSS.
+• Vanilla JavaScript.
+• No mandatory internet connection.
+• No external CDN dependencies.
+• No remotely hosted fonts.
+• No externally loaded icon libraries.
+• No external image dependencies at runtime.
+• Locally embedded or bundled visual assets.
+• Modular and maintainable code structure.
+• Semantic HTML.
+• Responsive CSS.
+• Proper RTL support.
+Use local SVG illustrations and CSS-generated decorative assets where practical.
+Do not replace meaningful illustrations with random Unicode characters.
+Keep the code organized even if the final application is distributed as a single HTML file.
+
+───
+
+21 — DATA MANAGEMENT & PRIVACY
+The application must treat student data as important and confidential.
+Implement:
+• Strict manager/teacher separation.
+• Teacher-specific data exports.
+• Student identifier validation.
+• Course and class assignment validation.
+• Duplicate record detection.
+• Safe import workflows.
+• Clear import summaries.
+• Backup and restore.
+• Historical data preservation.
+• Version-aware data structures.
+• Error handling.
+• Data integrity checks.
+Teacher files must contain only the minimum information needed to perform their assigned tasks.
+Family information and confidential management notes must remain manager-only.
+Do not mistake client-side interface hiding for genuine security.
+A fully offline, browser-only application cannot guarantee strong security against someone who has access to its files or browser storage.
+Document these limitations honestly and implement the strongest practical data isolation possible within the offline architecture.
+
+───
+
+22 — IMPORT, EXPORT & SYNCHRONIZATION
+Create an intuitive data exchange workflow.
+The manager should be able to:
+• Export teacher-specific work packages.
+• Import completed teacher files.
+• Validate submitted data.
+• Preview changes.
+• Detect duplicate records.
+• Resolve conflicts.
+• Review import results.
+• Preserve previous history.
+• Create backups.
+Teachers should be able to:
+• Open their own workspace.
+• Record permitted information.
+• Export their completed work.
+• Submit the exported file to the manager.
+Use clear Persian explanations for every step.
+Make the workflow understandable without technical training.
+
+───
+
+23 — PERFORMANCE & QUALITY
+The application must be visually rich without becoming slow.
+Requirements:
+• Lightweight animations.
+• Efficient DOM updates.
+• Avoid unnecessary re-rendering.
+• Minimize large dependencies.
+• Use optimized SVG assets.
+• Avoid oversized images.
+• Lazy-load nonessential illustrations when appropriate.
+• Keep interactions responsive.
+• Handle large student lists efficiently.
+Do not sacrifice performance for decorative effects.
+
+───
+
+24 — ACCESSIBILITY & USABILITY
+Ensure:
+• Sufficient text contrast.
+• Readable Persian typography.
+• Keyboard navigation.
+• Visible focus indicators.
+• Proper form labels.
+• Clear validation messages.
+• Accessible button names.
+• Appropriate touch target sizes.
+• Reduced-motion support.
+Do not communicate important information through color alone.
+
+───
+
+25 — QUALITY ASSURANCE & TESTING
+Before declaring the application complete, test the following:
+1. Login and role selection.
+2. Manager access.
+3. Teacher access.
+4. Teacher data isolation.
+5. Student search and filtering.
+6. Class and subject assignments.
+7. Elementary descriptive assessment.
+8. Middle school numerical assessment.
+9. Six Persian assessment indicators.
+10. Monthly history.
+11. Attendance recording.
+12. Data export.
+13. Data import.
+14. Duplicate detection.
+15. Conflict handling.
+16. Backup and restore.
+17. Print layouts.
+18. RTL alignment.
+19. Mobile responsiveness.
+20. Offline functionality.
+Check for:
+• Broken buttons.
+• Empty links.
+• JavaScript errors.
+• Missing assets.
+• Incorrect navigation.
+• Layout overflow.
+• Data loss.
+• Duplicate records.
+• Unauthorized data exposure.
+Do not claim that an operation works unless it has actually been implemented and tested.
+
+───
+
+26 — CREATIVE QUALITY BAR
+The application must not look like a quickly generated AI dashboard.
+Avoid:
+• Generic SaaS templates.
+• Excessively repetitive cards.
+• Random color usage.
+• Emoji-only visual design.
+• Cheap clipart.
+• Overcrowded layouts.
+• Excessive gradients.
+• Unnecessary charts.
+• Giant empty spaces.
+• Inconsistent icons.
+• Unrelated illustrations.
+• Decorative elements that interfere with functionality.
+Instead, create:
+• Carefully art-directed pages.
+• Rich visual compositions.
+• Meaningful illustrations.
+• Consistent mascot characters.
+• Beautiful typography.
+• Strong information hierarchy.
+• Thoughtful use of whitespace.
+• Elegant micro-interactions.
+• A coherent visual identity.
+Every page should feel deliberately designed.
+
+───
+
+27 — FINAL DELIVERABLES
+Deliver a complete working product, not merely a mockup.
+The final delivery should include:
+1. A fully functional manager application.
+2. Individual teacher workspaces.
+3. A consistent design system.
+4. A reusable mascot and sticker library.
+5. Offline-ready visual assets.
+6. Working data import/export.
+7. Backup and restore functionality.
+8. Print-friendly reports.
+9. Clear setup instructions.
+10. A brief technical documentation file.
+If the project is delivered as multiple files, organize them in a clean directory structure.
+If a standalone HTML version is requested, ensure all required assets are bundled or embedded.
+
+───
+
+28 — FINAL CREATIVE DIRECTIVE
+I want you to think like a premium digital product studio, not a developer who is simply completing a checklist.
+Be creative.
+Be visually ambitious.
+Pay attention to tiny details.
+Create delightful surprises.
+Use beautiful character illustrations.
+Make the interface feel alive.
+Give every section its own personality.
+Make the application recognizable at first glance.
+However, never sacrifice clarity, accessibility, performance, privacy or data integrity for visual decoration.
+The final experience should make a teacher feel:
+"This is genuinely beautiful, easy to use, and enjoyable to work with."
+Build something that feels like a beautifully illustrated digital school brought to life.
+Do not stop at the login screen or the dashboard.
+Implement the complete application, verify every major interaction, and deliver a polished, usable, production-quality result.
+Your goal is not to make a school management system look colorful. Your goal is to create an entirely new visual experience for educational management.
+
+دومی اینه
+Before writing any application code, establish the complete visual direction.
+
+Create a detailed visual design system, define the mascot universe, establish the color palette, typography, spacing, component styles, illustration language and animation principles.
+
+Design the login page, manager dashboard, teacher dashboard, student profile and assessment interface as a coherent visual family.
+
+Prioritize exceptional visual quality and consistency.
+
+Do not start implementation until the complete design direction is clearly established.
+سومی اینه
+Do not simplify the design into a generic dashboard.
+
+I expect a highly art-directed interface with original visual compositions, carefully placed illustrations, rich but controlled decorative details, distinctive page identities and meaningful micro-interactions.
+
+Do not use the same card layout repeatedly on every page.
+
+Each section must have its own visual character while maintaining a unified design system.
+
+Pay special attention to the quality of illustrations, mascot placement, typography, whitespace, shadows, layering and small interaction details.
+
+The result should look like a professionally designed commercial application, not a generic AI-generated website.
+چهارمین هم اینه
+Perform a complete visual and functional quality audit.
+
+Inspect every page, every button, every form, every navigation item, every modal and every interaction.
+
+Check desktop, tablet and mobile layouts.
+
+Verify RTL alignment and Persian typography.
+
+Check the visual consistency of all stickers and illustrations.
+
+Fix unfinished sections, placeholder content, broken interactions, inconsistent spacing, overflowing elements and missing functionality.
+
+Do not deliver a partially implemented prototype.
+
+Only deliver after the application has passed the functional and visual quality checks.
+FINAL MASTER EXECUTION PROMPT
+PRODUCTION-READY HTML DELIVERY — SMART CLASS NOTEBOOK
+You have completed the design and development of the Smart Class Notebook application.
+Now enter the FINAL PRODUCTION, DEBUGGING, OPTIMIZATION, AND DELIVERY PHASE.
+Your task is NOT to explain the code, provide recommendations, or generate another development plan.
+Your task is to inspect, test, repair, optimize, and deliver the actual working application.
+1. MANDATORY FINAL DELIVERABLE
+Deliver a complete, self-contained, production-ready HTML file named:
+Smart_Class_Notebook_Stad_Halat_2.html
+The final file must:
+• Be a complete HTML document.
+• Run directly in modern browsers.
+• Work offline without requiring an internet connection.
+• Include all necessary HTML, CSS, and JavaScript.
+• Include all essential visual assets locally or embed them directly.
+• Require no external server, database, build process, or installation.
+• Preserve all implemented functionality.
+• Be usable immediately after opening the file.
+Do not deliver:
+• A mockup.
+• A static prototype.
+• A partial HTML file.
+• A collection of disconnected code snippets.
+• A development explanation instead of the actual file.
+• Buttons or features that appear functional but do nothing.
+2. FULL FUNCTIONALITY AUDIT
+Test every major feature and every interactive element.
+Verify:
+• Login and logout.
+• Manager and teacher permissions.
+• Student registration and editing.
+• Class and course management.
+• Teacher-specific access restrictions.
+• Student search and filtering.
+• Attendance recording.
+• Educational assessments.
+• Monthly assessment history.
+• Numeric grading for applicable grades.
+• Persian language assessment indicators.
+• Announcements and classroom tools.
+• Reports and printable documents.
+• Excel import and export.
+• Backup and restore.
+• Data persistence after closing and reopening the application.
+Every visible button, icon, menu, dropdown, tab, modal, and interactive card must have a real, working action.
+Remove or repair every nonfunctional element.
+3. DATA INTEGRITY AND SECURITY AUDIT
+Pay special attention to:
+• Duplicate student records.
+• Incorrect class assignments.
+• Missing student information.
+• Accidental overwriting of previous assessments.
+• Incorrect monthly history.
+• Unauthorized access to confidential information.
+• Incorrect teacher-to-class or teacher-to-subject assignments.
+• Import and export inconsistencies.
+Teachers must only access information necessary for their assigned educational responsibilities.
+Family information, private administrative notes, and confidential records must remain restricted to authorized management users.
+Never expose passwords, PINs, or sensitive information in visible source-code data.
+Important: If this application is distributed as a standalone offline HTML file, do not falsely claim that client-side passwords provide server-grade security. Clearly implement realistic access restrictions and explain any unavoidable limitations.
+4. VISUAL QUALITY CONTROL
+Perform a complete visual inspection.
+The application must feel like a premium educational software product, not a generic administrative dashboard.
+Check:
+• Consistent typography.
+• Proper Persian RTL layout.
+• Balanced spacing.
+• Beautiful card layouts.
+• Consistent colors.
+• High-quality illustrations and stickers.
+• Proper mascot placement.
+• Smooth animations.
+• Attractive hover and click states.
+• Clear visual hierarchy.
+• Readable forms and tables.
+• Responsive layouts.
+Make sure cute stickers and mascots enhance the interface without interfering with usability.
+Remove overlapping elements, broken layouts, awkward empty spaces, inconsistent margins, and excessive visual clutter.
+5. RESPONSIVE DESIGN TEST
+Inspect the interface at:
+• Desktop: 1920 × 1080
+• Laptop: 1366 × 768
+• Tablet: 768 × 1024
+• Mobile: 390 × 844
+• Small mobile: 360 × 740
+Ensure:
+• No horizontal overflow.
+• No clipped menus.
+• No unreadable text.
+• No overlapping buttons.
+• Forms remain usable.
+• Tables have appropriate responsive behavior.
+• Navigation remains accessible.
+6. TECHNICAL DEBUGGING
+Inspect the entire codebase for:
+• JavaScript syntax errors.
+• Undefined variables.
+• Missing functions.
+• Broken event listeners.
+• Invalid HTML structures.
+• CSS conflicts.
+• Incorrect selectors.
+• Broken modal behavior.
+• Local storage errors.
+• Data serialization problems.
+• Import/export failures.
+• Performance issues.
+Test the application in a fresh browser session.
+Test both an empty database and a database containing sample records.
+Verify that refreshing the page does not unexpectedly erase data.
+Do not introduce fake student records into the actual school dataset.
+7. OFFLINE RELIABILITY
+The application must not depend on:
+• Google Fonts.
+• Remote image URLs.
+• External JavaScript libraries.
+• CDN resources.
+• Internet-based authentication.
+• Online APIs.
+If an external resource is essential, replace it with a local or embedded alternative.
+Test the application with the internet completely disconnected.
+8. FINAL ACCEPTANCE CRITERIA
+The application is considered complete only when:
+1. The HTML file opens successfully.
+2. The interface renders correctly in Persian.
+3. All implemented features work.
+4. Manager and teacher permissions are correctly separated.
+5. Student data persists reliably.
+6. Monthly records are preserved.
+7. Import and export work correctly.
+8. No critical JavaScript errors remain.
+9. No major visual defects remain.
+10. The application works offline.
+Do not claim that a test passed unless you actually performed it.
+If a feature cannot be verified, explicitly identify it rather than pretending it works.
+9. FINAL DELIVERY
+Save the final application as:
+Smart_Class_Notebook_Stad_Halat_2.html
+Provide the actual downloadable HTML file.
+Also provide a short delivery report containing:
+• Final file name.
+• Implemented features.
+• Tests actually performed.
+• Issues discovered and fixed.
+• Remaining limitations, if any.
+• Instructions for opening and using the application.
+FINAL INSTRUCTION
+Think like a senior software engineer, a professional UI/UX designer, and a strict quality-assurance specialist.
+Do not stop when the application merely looks beautiful.
+Do not stop when the code appears complete.
+Do not stop when the first version runs.
+Inspect it. Test it. Break it. Fix it. Test it again.
+The final result must be a genuinely usable, visually exceptional, reliable, offline educational application for:
+مدرسه ابتدایی استاد حالت ۲
+Your final response must contain the actual completed HTML file, not merely the source code pasted into the conversation.
+
+حالا اینو در نظر بگیر که اسم مدرسه باید مدرسه پروین اعتصامی روستای رجعین باشه و متوسطه اش هم اسمش حضرت زینب کبری(س) هستش اگر جایی اسم مدرسه دیگه هستش اونو اشتباه نشه هرجا به نظرت پرامپت ها ناقص بود خودت کامل تر کن
+
